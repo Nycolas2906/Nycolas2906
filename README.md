@@ -10,6 +10,6 @@ Power BI; Autodesk Inventor; Arduino; AZ-900; Fundamentos Python; Inteligências
 ```python
 
 def test():
-    print('Hello Word')
+    print('Hello Word!')
 
 ```
