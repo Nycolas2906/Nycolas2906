@@ -8,6 +8,8 @@ Estou cursando Ciência da Computação na UNIMAR
 Power BI; Autodesk Inventor; Arduino; AZ-900; Fundamentos Python; Inteligências Artificiais Generativas Aplicadas a programação 
 
 ```python
+
 def test():
     print('Hello Word')
-´´´´
+
+```
