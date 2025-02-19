@@ -1,5 +1,7 @@
 # Nycolas Estanislau dos Santos
 
+![](https://komarev.com/ghpvc/?username=Nycolas2906)
+
 tenho 18 anos
 participo do escotismo desde 2019
 Estou cursando Ciência da Computação na UNIMAR
