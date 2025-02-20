@@ -9,8 +9,8 @@ Estou cursando Ciência da Computação na UNIMAR
 # Cursos na area: 
 Power BI; Autodesk Inventor; Arduino; AZ-900; Fundamentos Python; Inteligências Artificiais Generativas Aplicadas a programação 
 
-# Testando fork
-E ai Rodrigo, ocorreu tudo bem?
+# Testando o fork
+Deu erro???
 
 ```python
 
